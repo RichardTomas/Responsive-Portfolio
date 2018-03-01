@@ -1,10 +1,11 @@
 # Responsive-Portfolio
 Homework2 Part1
 
-## Assignment One Instructions - (No Bootstrap)
-Build a professional portfolio site using HTML/CSS.
+## Overview
+Enhance the portfolio you made with a mobile-responsive layout
 
-## Instructions:
+## Assignment One Instructions - (No Bootstrap)
+
 1. Inside your Responsive-Portfolio folder, find your styles.css file. You will write your media queries at the bottom of styles.css.
 2. Use three @media screen tags, each with one of these max-widths: 980px, 768px and 640px.
 
